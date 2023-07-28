@@ -9,3 +9,5 @@ Recently, many reserachers are trying to build automatic helpdesk systems. Howev
   * task accomplishment
   * customer satisfaction
   * dialogue effectiveness
+
+In DialEval-2, we consider annotations ground truth, and participants are required to predict nugget type for each turn (Nugget Detection, or ND) and dialogue quality for each dialogue (Dialogue Quality, or DQ).
